@@ -46,6 +46,22 @@ font-family: &quot;Togalite Bold&quot;</string>
        </widget>
       </item>
       <item>
+       <widget class="QLabel" name="descriptionLabel">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>A SImple Qt RPG dice roller</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
        <widget class="QLabel" name="valueLabel">
         <property name="styleSheet">
          <string notr="true">font-size:  45px;
