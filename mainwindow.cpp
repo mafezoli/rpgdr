@@ -97,3 +97,9 @@ void MainWindow::on_d100Button_clicked()
     ui->valueLabel->setText(values.trimmed());
 }
 
+
+void MainWindow::on_clearButton_clicked()
+{
+    ui->valueLabel->setText("Roll!");
+}
+
