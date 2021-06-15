@@ -54,7 +54,7 @@ font-family: &quot;Togalite Bold&quot;</string>
          </sizepolicy>
         </property>
         <property name="text">
-         <string>A SImple Qt RPG dice roller</string>
+         <string>A Simple Qt RPG dice roller</string>
         </property>
         <property name="alignment">
          <set>Qt::AlignCenter</set>
