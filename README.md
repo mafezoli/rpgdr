@@ -2,4 +2,4 @@
 A simple Qt RPG dice roller.
 
 ## Preview
-![preview](https://github.com/mafezoli/rpgdr/blob/master/previews/mainpreview.png)
+![preview](https://raw.githubusercontent.com/mafezoli/rpgdr/master/previews/mainpreview.png)
